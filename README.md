@@ -1,0 +1,1 @@
+This is Foday's first git project.
